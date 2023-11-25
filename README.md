@@ -20,6 +20,6 @@
 
 ![image](https://github.com/NatnareePhoungsombat/machine_issue_report/assets/98601447/923518fc-3831-41ae-ac7f-85e9332e9a2a)
 
-6. Count common world all issu in description:
+6. Count common world all issue in description:
 
 ![image](https://github.com/NatnareePhoungsombat/machine_issue_report/assets/98601447/cca74ada-faf5-4fbf-946b-3ad14678d9be)
