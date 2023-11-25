@@ -1,0 +1,46 @@
+// {"id": 1, "name":"machine_1"}
+
+
+// {"machine_id": 1, 
+// "issue":"My First Report",
+// "description": "This is the content of my first report."}
+
+
+// {"id": [1,2,3,4,5], 
+// "machine_id":[123,456,123,789,789], 
+// "issue":["Overheating","Connection Failure","Strange Noises","Software Crash","Critical System Failure"],
+// "description":["The machine is overheating after running for an extended period.",
+//                "The machine is unable to establish a stable network connection.",
+//                "Unusual noises are coming from the machine during operation.",
+//                "The machine's software is crashing when a specific task is executed.",
+//                "The machine's critical system has failed unexpectedly."],
+// "timestamp":["2023-08-25T08:15:00Z","2023-08-25T09:30:00Z","2023-08-25T10:45:00Z","2023-08-25T11:00:00Z","2023-08-25T11:30:00Z"],
+// "status":["Closed","Open","Open","Open","Urgent"]}
+
+
+
+{"description":["The machine is overheating after running for an extended period.",
+               "The machine is unable to establish a stable network connection.",
+               "Unusual noises are coming from the machine during operation.",
+               "The machine's software is crashing when a specific task is executed.",
+               "The machine's critical system has failed unexpectedly.",
+               "The machine is overheating after running for an extended period.",
+               "The machine is unable to establish a stable network connection.",
+               "Unusual noises are coming from the machine during operation.",
+               "The machine's software is crashing when a specific task is executed.",
+               "The machine's critical system has failed unexpectedly.",
+               "The machine is overheating after running for an extended period.",
+               "The machine is unable to establish a stable network connection.",
+               "Unusual noises are coming from the machine during operation.",
+               "The machine's software is crashing when a specific task is executed.",
+               "The machine's critical system has failed unexpectedly.",
+               "The machine is overheating after running for an extended period.",
+               "The machine is unable to establish a stable network connection.",
+               "Unusual noises are coming from the machine during operation.",
+               "The machine's software is crashing when a specific task is executed.",
+               "The machine's critical system has failed unexpectedly.",
+               "The machine is overheating after running for an extended period.",
+               "The machine is unable to establish a stable network connection.",
+               "Unusual noises are coming from the machine during operation.",
+               "The machine's software is crashing when a specific task is executed.",
+               "The machine's critical system has failed unexpectedly."]}
